@@ -1,5 +1,5 @@
 
-# Music Player
+# Music Player Level-2
 
 A simple and elegant music player with a modern UI built using HTML, CSS, and JavaScript.
 
